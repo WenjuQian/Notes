@@ -1,3 +1,3 @@
 # Notes
 
-This is a perosnal blog for my learning.
+This is a personal blog for my learning.
