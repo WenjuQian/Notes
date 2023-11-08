@@ -91,7 +91,8 @@ Any company + deep learning 不等于 AI company
 
 2、人类可以看几张图片，读几段医学上的书就可以做诊断，但是AI不行；
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/b1ceaf85-8a1d-462e-9601-93c8c54e7a10/4d60e120-9efd-46b7-a7e6-d46e8487fef2/Untitled.png)
+![](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fb1ceaf85-8a1d-462e-9601-93c8c54e7a10%2F57b947ba-c1a8-46e9-a875-fe88551982be%2FUntitled.png?table=block&id=7b33bed3-f6ad-4cd5-be25-9014ea6213fa&spaceId=b1ceaf85-8a1d-462e-9601-93c8c54e7a10&width=2000&userId=d701d27e-3f49-44b1-a6b1-383a5c648646&cache=v2)
+
 
 ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/b1ceaf85-8a1d-462e-9601-93c8c54e7a10/57b947ba-c1a8-46e9-a875-fe88551982be/Untitled.png)
 
